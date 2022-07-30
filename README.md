@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akinlope
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
+- 🌱 I’m currently working with HTML, CSS, JAVASCRIPT, REACT, PYTHON
 - 💞️ I’m looking to collaborate on full stack project
 - 📫 How to reach me akinrimisitt@gmail.com
 
